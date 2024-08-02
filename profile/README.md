@@ -1,12 +1,3 @@
-## Hi there 👋
+## Wir sind Mehrwerk.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Als Europas führende, datengetriebene Plattform für passgenaue Mehrwertleistungen steigern wir nachhaltig deine Kundenbindung und Erträge. Für deine Kunden schaffen wir emotionale Erlebnisse, die intensive Bindung schaffen – und die zugleich optimierte Preisgefüge und Zusatzverkäufe ermöglichen. Dafür nutzen wir hochmoderne Technologien und fundierte Echtzeitdaten-Analysen. Und wir garantieren diesen Erfolg.
